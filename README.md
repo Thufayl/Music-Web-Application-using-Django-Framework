@@ -1,1 +1,1 @@
-Muhammed Thufayl Noor_5038_LICET
+Music Streaming platform built on Django
