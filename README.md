@@ -1,1 +1,1 @@
-Music Streaming platform built on Django
+Music Streaming platform built using Django
